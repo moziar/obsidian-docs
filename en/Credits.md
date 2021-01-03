@@ -23,7 +23,7 @@ Names are not listed by amount of contribution, but alphabetically (or at least 
 ### Translators
 
 - canzi-teacher, 蚕子 (Chinese Simplified)
-
+- moziar，Moz（Chinese Simplified）
 ##### Add your name
 
 If you're a translator, please make a pull request to add "Your Name (contributed language)" to the section above. Please keep the list of names alphabetical, thanks!
